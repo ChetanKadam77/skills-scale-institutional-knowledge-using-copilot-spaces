@@ -78,4 +78,18 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+Add the new personas:
 
+Quality Assurance Lead
+Security Officer
+Change Management Coordinator
+Financial Controller / Budget Manager
+Resource Manager
+For each persona include:
+
+Role Summary
+Responsibilities
+Goals
+Typical Communication
+Key Interactions with existing roles
+Keep the change focused only on this document and the issue.
